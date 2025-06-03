@@ -55,3 +55,10 @@ To view or edit the portfolio locally:
 
    ```bash
    git clone https://github.com/seepanasateeshchandra/portfolio.git
+
+## Screen Shots
+
+![homepage](https://github.com/user-attachments/assets/8c60eac8-9af1-4919-ba1d-67e2bdc06ab4)
+
+
+
