@@ -4,7 +4,7 @@ Welcome to the personal portfolio website of **Sateesh Chandra Seepana** — an 
 
 ## 🔗 Live Demo
 
-[Click here to view the live portfolio](#) *(Replace with live link if deployed)*
+[https://seepanasateeshchandra.github.io/MyPortfolio/](#) *(Replace with live link if deployed)*
 
 ---
 
